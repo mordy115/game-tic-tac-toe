@@ -79,3 +79,10 @@ body {
   position: absolute;
   left: 25%;
 }
+@media (max-width: 700px){
+  .game-moves{
+    position: relative;
+    left: 0%;
+    margin-bottom: 50px;
+  }
+}
